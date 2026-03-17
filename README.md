@@ -14,9 +14,9 @@ Python, LangChain, LangGraph, RAG, Ollama, Hugging Face, RLHF, RLAIF
 
 NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow
 
-**Tools**
+**Tools & Infrastructure**
 
-Figma, Miro, SolidWorks, Autodesk Fusion
+Linux, Google Cloud Platform (GCP), Git
 
 ---
 
