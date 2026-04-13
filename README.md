@@ -8,7 +8,7 @@ I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make
 
 **LLM & AI Agent Systems**
 
-Python, LangChain, LangGraph, RAG, Ollama, Hugging Face, RLHF, RLAIF
+Python, LangChain, LangGraph, CrewAI, RAG, Ollama, Hugging Face, RLHF, RLAIF
 
 **Data & Modeling**
 
@@ -22,6 +22,7 @@ Linux, Google Cloud Platform (GCP), Git
 
 ## Featured Projects
 
+- **Context-constrained codebase agent**
 - **Multi-agent simulation engine**
 - **RAG research paper summarizer**
 - **AI study assistant chatbot for engineering students**
