@@ -16,7 +16,7 @@ NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow
 
 **Tools & Infrastructure**
 
-Linux, Google Cloud Platform (GCP), Git
+Linux, Google Cloud Platform (GCP), Git, FastAPI
 
 ---
 
