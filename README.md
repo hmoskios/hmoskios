@@ -8,7 +8,7 @@ I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make
 
 **LLM & AI Agent Systems**
 
-Python, LangChain, LangGraph, CrewAI, RAG, Ollama, Hugging Face, RLHF, RLAIF
+Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Hugging Face, RLHF, RLAIF
 
 **Data & Modeling**
 
@@ -16,7 +16,7 @@ NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow
 
 **Tools & Infrastructure**
 
-Linux, Google Cloud Platform (GCP), Git, FastAPI
+Linux, Google Cloud Platform (GCP), Vertex AI, Git, FastAPI
 
 ---
 
