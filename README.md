@@ -20,8 +20,9 @@ Linux, Google Cloud Platform (GCP), Vertex AI, Git, FastAPI
 
 ---
 
-## Featured Projects
+## AI Projects
 
+- **AI-powered trading signal analyzer**
 - **Context-constrained codebase agent**
 - **Multi-agent simulation engine**
 - **RAG research paper summarizer**
