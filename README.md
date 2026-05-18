@@ -1,6 +1,6 @@
 # Hi, I’m Hannah 👋
 
-I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make video games to support mental health and well-being. My work focuses on implementing AI into our products. I am building multi-agent and LLM-based systems, with a focus on orchestration, RAG pipelines, and evaluation-driven development.
+I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make video games to support mental health and well-being. My work focuses on implementing AI into our products. I am building multi-agent and LLM-based systems, with a focus on orchestration, RAG pipelines, memory architectures, and evaluation-driven development.
 
 ---
 
@@ -8,7 +8,7 @@ I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make
 
 **LLM & AI Agent Systems**
 
-Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Hugging Face, RLHF, RLAIF
+Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Vector Databases, Hugging Face, RLHF, RLAIF
 
 **Data & Modeling**
 
