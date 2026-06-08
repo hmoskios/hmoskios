@@ -8,7 +8,7 @@ I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make
 
 **LLM & AI Agent Systems**
 
-Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Vector Databases, Hugging Face, RLHF, RLAIF
+Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Vector Databases, Embeddings, Hugging Face, RLHF, RLAIF, Fine-tuning
 
 **Data & Modeling**
 
