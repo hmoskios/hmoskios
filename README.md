@@ -1,6 +1,6 @@
 # Hi, I’m Hannah 👋
 
-I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we make video games to support mental health and well-being. My work focuses on implementing AI into our products. I am building multi-agent and LLM-based systems, with a focus on orchestration, RAG pipelines, memory architectures, and evaluation-driven development.
+I'm an AI engineer at [The Verse](https://www.versebuilding.com/), where we build video games that support mental health and well-being. My work focuses on designing and developing multi-agent and LLM-based systems for our products. I specialize in agent orchestration, RAG pipelines, memory architectures, and evaluation-driven development.
 
 ---
 
@@ -16,7 +16,7 @@ NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow
 
 **Tools & Infrastructure**
 
-Linux, Google Cloud Platform (GCP), Vertex AI, Git, FastAPI
+Linux, Git, FastAPI, Google Cloud Platform (GCP), Vertex AI
 
 ---
 
