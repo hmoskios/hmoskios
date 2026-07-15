@@ -12,7 +12,7 @@ Python, LangChain, LangGraph, LangSmith, LlamaIndex, RAG, Vector Databases, Embe
 
 **Data & Modeling**
 
-NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow
+PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
 **Tools & Infrastructure**
 
